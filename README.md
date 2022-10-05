@@ -31,12 +31,14 @@
 
    
    <p>tag blockquote para citações completas, ex: paragrafos de um livro, <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima consectetur ex delectus aperiam dolores id obcaecati. Possimus fugiat eius voluptate atque quas, consectetur odio esse. Quidem placeat aperiam quas rem.</blockquote></p>
+   
+  
 
     
-    <h3>dentro do blockquote tem como citar o livro pegando o link do mesmo <p>ex: blockquote <cite= linl.........>< >blockquote </p></h3>
+    <h3> dentro do blockquote tem como citar o livro pegando o link do mesmo <p>ex: blockquote <cite= linl.........>< >blockquote </p> </h3>
 
     
-    <p>tag (abbr) para abreviações, o mesmo irá te dar um titulo para explicar o significado da abreviação, <ABBR title="DaviAnaCASSIO">DAC </ABBR></p>
+    <p> tag (abbr) para abreviações, o mesmo irá te dar um titulo para explicar o significado da abreviação, <ABBR title="DaviAnaCASSIO">DAC </ABBR> </p>
     
 </body>
 </html>
